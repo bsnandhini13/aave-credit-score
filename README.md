@@ -54,7 +54,6 @@ This is a **heuristic model**, not a financial credit system. It is built for ed
 ## 🛠️ Future Enhancements (optional)
 
 - Add visualizations and save plots
-- Export results as `credit_scores.csv`
 - Train ML models on labeled data for improved scoring
 
 ---
